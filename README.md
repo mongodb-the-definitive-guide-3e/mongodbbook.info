@@ -7,3 +7,5 @@ All the code examples used in the book are available here:
 * [code](TBD): TODO.
 
 ![book cover](thumbnail_MongoDB-TheDefinitiveGuide-3ed.png)
+
+Follow online at [MongoDB Book on Twitter](https://twitter.com/mongodb_tdg)
