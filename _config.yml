@@ -2,3 +2,9 @@ theme: jekyll-theme-minimal
 title: MongoDB The Definitive Guide 3rd Edition
 description: Developing Modern Applications Using the MongoDB Document Database
 show_downloads: false
+author:
+  twitter: eoinbrazil
+url: "https://mongodbbook.info/"
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
