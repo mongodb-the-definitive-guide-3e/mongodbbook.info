@@ -2,7 +2,7 @@ In this book, [Shannon Bradshaw](https://twitter.com/shannonbradshaw) and [Eoin 
 
 The book is available [via Safari](https://learning.oreilly.com/library/view/mongodb-the-definitive/9781491954454/) and in print from all good bookstores.
 
-The code examples used in the book are available:
+A subset of the code examples and data sets used in the book are available in the book's Github repo (**NOTE:** the remainder are not available for a variety of reasons):
 
 * [Chapter 2 - Getting Started](https://github.com/mongodb-the-definitive-guide-3e/mongodb-the-definitive-guide-3e/tree/master/chapter2)
 - [Chapter 3 - Creating, Updating, and Deleting Documents](https://github.com/mongodb-the-definitive-guide-3e/mongodb-the-definitive-guide-3e/tree/master/chapter3)
